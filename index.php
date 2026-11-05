@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Man patīk suņi</h1>
+        <p><img src="https://ichef.bbci.co.uk/ace/standard/598/cpsprodpb/15565/production/_114679378_pettog4.jpg" alt="susns" width="400px"></p>
+        <h2>Kapēc?</h2>
+            <div class="container">
+        <div>1. Suņi ir mīļi</div>
+        <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3u6qPelXw0-TOnQT1j7OU07eWvgH03GzZow-bugi_5bAab96Se5doOyE&s=10" alt="susns" width="200px"></div>
+        <div>2. Suņi ir kruti</div>
+        <div><img src="https://www.shutterstock.com/image-photo/cool-corgi-dog-wearing-pixelated-260nw-2554697125.jpg" alt="susns" width="300px"></div>
+        <div>3. Suņi ir mīlīgi</div>
+        <div><img src="https://media.tenor.com/63CE_fI_OB8AAAAe/cute-puppy-dumby.png" alt="susns" width="300px"></div>
+            </div>
+            <div class
+</body>
+</html>
+<style>
+.container {
+  display: grid;
+  grid-template-columns: auto auto;
+  padding: 10px;
+}
+.container div {
+  padding: 10px;
+  font-size: 40px;
+}
+</style>
